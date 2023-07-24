@@ -10,9 +10,6 @@
 
 - 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at INexperience to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
-- ⚡ To read my blog post, checkout [FrontendPro](https://frontendpro.hashnode.dev/)
-  
--
 
 - 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/rkaadil06). You can also send me a mail to rkaadil06@gmail.com.
 
