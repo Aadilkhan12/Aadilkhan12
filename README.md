@@ -29,10 +29,10 @@
 <br>
   
 <a href="https://github.com/Aadilkhan12/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadanandpai&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadilkhan12&theme=radical&hide=glsl,python" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadanandpai&show_icons=true&theme=radical&line_height=27" alt="sadanandpai's github stats" />
+<a href="https://github.com/Aadilkhan12/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aadilkhan12&show_icons=true&theme=radical&line_height=27" alt="sadanandpai's github stats" />
 </a>
 <!--
 **Aadilkhan12/Aadilkhan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
