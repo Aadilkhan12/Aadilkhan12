@@ -28,7 +28,7 @@
 <a href="https://github.com/Aadilkhan12/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadilkhan12&theme=radical&hide=glsl,python" />
 </a>
-<a href="https://github.com/Aadilkhan12/github-readme-stats">
+<!--<a href="https://github.com/Aadilkhan12/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aadilkhan12&show_icons=true&theme=radical&line_height=27" alt="sadanandpai's github stats" />
 </a>
 <!--
