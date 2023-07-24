@@ -1,23 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sadanand Pai</h1>
+<h1 align="center">Hi 👋, I'm Aadil</h1>
 <h3 align="center">Frontend developer who aims to write quality code</h3>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/sadanandpai/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  <a href="https://twitter.com/paicube"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+  <a href="https://www.linkedin.com/in/rkaadil06/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://twitter.com/rkaadil06"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
   <br><br>
  <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p>
 </div>
 
-- 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at CoinDCX to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
+- 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at INexperience to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
 - ⚡ To read my blog post, checkout [FrontendPro](https://frontendpro.hashnode.dev/)
   
-- Watch my talks on youtube
-  - [Frontend Interview Preparation](https://www.youtube.com/watch?v=fMeU-SBQKlU)
-  - [How to clear frontend interviews at Product companies?](https://www.youtube.com/watch?v=LjpWXIT_XvY&t=9s)
-  - [State Management using Zustand for React](https://www.youtube.com/watch?v=pP9gQr0nK2s)
+-
 
-- 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/sadanandpai). You can also send me a mail to sadypai@gmail.com.
+- 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/rkaadil06). You can also send me a mail to rkaadil06@gmail.com.
 
 <br>
 
@@ -31,7 +28,7 @@
   
 <br>
   
-<a href="https://github.com/sadanandpai/github-readme-stats">
+<a href="https://github.com/Aadilkhan12/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadanandpai&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
