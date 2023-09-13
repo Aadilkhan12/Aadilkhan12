@@ -26,11 +26,13 @@
 <br>
   <br>
   <h1>project </h1>
-  <br/>
-   <a href="https://filmcritics.netlify.app/">
+  <a href="https://filmcritics.netlify.app/">
      Filmcritics
    </a>
-    <br>
+  <br/>
+   
+   
+    <br/>
 <a href="https://github.com/Aadilkhan12/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadilkhan12&theme=radical&hide=glsl,python" />
 </a>
