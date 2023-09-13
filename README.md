@@ -25,10 +25,7 @@
   
 <br>
   <br>
-  <h1>project </h1>
-  <a href="https://filmcritics.netlify.app/">
-     Filmcritics
-   </a>
+ 
 
 
    
