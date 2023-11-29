@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/rkaadil06/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
   <a href="https://twitter.com/rkaadil06"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
   <br><br>
- <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p>
+ <br><br>
 </div>
 
 - 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at INexperience to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
